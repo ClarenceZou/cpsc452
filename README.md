@@ -11,7 +11,7 @@ This repository contains:
 Install the required Python packages:
 ```bash
 pip install tqdm urllib3 scvi-tools tensorflow numpy pandas scikit-learn matplotlib torch torchvision umap-learn seaborn scipy
-
+```
 ## Dataset
 The notebook automatically downloads the Linnarsson Lab mouse cortex dataset from:
 https://storage.googleapis.com/linnarsson-lab-www-blobs/blobs/cortex/expression_mRNA_17-Aug-2014.txt
