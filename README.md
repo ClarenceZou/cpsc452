@@ -17,6 +17,12 @@ The notebook automatically downloads the Linnarsson Lab mouse cortex dataset fro
 https://storage.googleapis.com/linnarsson-lab-www-blobs/blobs/cortex/expression_mRNA_17-Aug-2014.txt
 and saves it as expression.bin.
 
+## Usage
+1.Open CORTEX dataset.ipynb in Jupyter or Google Colab.
+
+2.Run all cells end-to-end.
+
+Note: All explanations and instructions are provided within the notebook itself.
 ## Citations
 - Zeisel, A. et al. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq. *Science* **347**, 1138–1142 (2015).
 - van den Oord, A., Vinyals, O. & Kavukcuoglu, K. Neural Discrete Representation Learning. In *NeurIPS* (2017).
