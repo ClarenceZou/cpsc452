@@ -5,7 +5,6 @@
 ## Overview
 This repository contains:
 - `CORTEX dataset.ipynb`: A Jupyter/Colab notebook that downloads the dataset, preprocesses it, trains the VQ-VAE model with archetypal regularization, evaluates clustering, and visualizes results.
-- `requirements.txt`: A list of Python packages and their versions required to run the notebook, generated from the Colab environment.
 - `README.md`: This file.
 
 ## Dependencies
